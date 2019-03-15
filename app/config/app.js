@@ -1,1 +1,1 @@
-export const BASE_URL = 'http://sosub.org';
+export const BASE_URL = 'https://sosub.org';
